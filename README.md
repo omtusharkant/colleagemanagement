@@ -22,7 +22,7 @@ A College Management System built using Python, Tkinter, and SQLite3. This appli
 
    
 
-    >  install the dependencies:
+    
     > ```bash
     > pip install tk
     > pip install sqlite3
